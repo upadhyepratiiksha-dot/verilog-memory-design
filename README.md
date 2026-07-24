@@ -22,4 +22,4 @@ Electronics & Telecommunication Engineering Student | Aspiring RTL Design & Veri
 
 GitHub: https://github.com/upadhyepratiiksha-dot
 
-LinkedIn: https://linkedin.com/in/pratiksha-upadhye-3800a4326/
+LinkedIn: https://linkedin.com/in/pratiksha-upadhye
